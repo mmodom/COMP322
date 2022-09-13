@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .underlined{
 	text-decoration: underline;
 }
@@ -9,4 +10,17 @@
 .red{
 	color:red;
 	font-weight: bold;
+=======
+.underlined{
+	text-decoration: underline;
+}
+
+.orange{
+	background-color: orange; 
+}
+
+.red{
+	color:red;
+	font-weight: bold;
+>>>>>>> 96c13beddeba399c8bc777faa6f5e4c30f4ad3a1
 }
